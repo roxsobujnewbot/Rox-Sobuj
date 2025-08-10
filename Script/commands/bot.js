@@ -91,19 +91,19 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("সরি বস মাফ করে দেন আর এমন ভুল হবে না🥺🙏", threadID);
    };
 
-   if ((event.body.toLowerCase() == "@Farhana Ontora") || (event.body.toLowerCase() == "@Farhana Ontora ")) {
-     return api.sendMessage("খবরদার কেউ এই আইড়ি মেনশন দিবানা এটা আমার বস উল্লাস এর বউ এর আইড়ি😠🥰⛏️", threadID);
+   if ((event.body.toLowerCase() == "natasa") || (event.body.toLowerCase() == "kaira")) {
+     return api.sendMessage("খবরদার কেউ এই আইড়ি মেনশন দিবানা এটা আমার বস রক্স সবুজ এর বউ এর আইড়ি😠🥰⛏️", threadID);
    };
 
-  if ((event.body.toLowerCase() == "raisa") || (event.body.toLowerCase() == "Nusrat")) {
-     return api.sendMessage("খবরদার কেউ এই নাম দরে ডাক দিবানা এটা আমার বস রক্স সবুজ এর কলিজা বোন..!😠🥰⛏️", threadID);
+  if ((event.body.toLowerCase() == "raisa") || (event.body.toLowerCase() == "nusrat")) {
+     return api.sendMessage("খবরদার কেউ এই নাম দরে ডাক দিবানা😡⛏️ এটা আমার বস রক্স সবুজ এর কলিজা বোন..!🤗🥰", threadID);
    };
   
   if ((event.body.toLowerCase() == "jim") || (event.body.toLowerCase() == "mariya")) {
      return api.sendMessage("খবরদার কেউ নজর দিবানা এটা আমার বস রক্স সবুজ এর ব্রেস্টি লাগে..!😠🥰⛏️", threadID);
    };
 
-  if ((event.body.toLowerCase() == "Sinha") || (event.body.toLowerCase() == "Rimi")) {
+  if ((event.body.toLowerCase() == "sinha") || (event.body.toLowerCase() == "rimi")) {
      return api.sendMessage("খবরদার কেউ এই নাম দরে ডাক দিবানা এটা আমার বস রক্স সবুজ এর বউ এর নাম..!😠🥰⛏️", threadID);
    };
 
@@ -131,16 +131,16 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("️MY NAME IS °_>𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁", threadID);
    };
 
-   if ((event.body.toLowerCase() == "BOT ER BACCHA") || (event.body.toLowerCase() == "Bot er bacca")) {
+   if ((event.body.toLowerCase() == "BOT ER BACCHA") || (event.body.toLowerCase() == "bot er bacca")) {
      return api.sendMessage("️আমার বাচ্চা তো তোমার গার্লফ্রেন্ডের পেটে..!!🌚⛏️🌶️ ", threadID);
    };
 
-   if ((event.body.toLowerCase() == "Pic de") || (event.body.toLowerCase() == "ss daw")) {
+   if ((event.body.toLowerCase() == "pic de") || (event.body.toLowerCase() == "ss daw")) {
      return api.sendMessage("️এন থেকে সর দুরে গিয়া মর😒", threadID);
    };
 
-   if ((event.body.toLowerCase() == "Mahi") || (event.body.toLowerCase() == "ex")) {
-     return api.sendMessage("️Kiss Randi Ka Name Le Ke Mood Khrab Kr Diya.🙄 Dubara Naam Mat Lena Iska", threadID);
+   if ((event.body.toLowerCase() == "mahi") || (event.body.toLowerCase() == "ex")) {
+     return api.sendMessage("️Kiss Randi Ka Name Le Ke Mood Khrab Kr Diya.🙄 আমার বস রক্স সবুজ খেয়ে ছেড়ে দিছে নষ্ট বেডি 🤮🐶", threadID);
    };
 
    if ((event.body.toLowerCase() == "cudi") || (event.body.toLowerCase() == "tor nanire xudi")) {
